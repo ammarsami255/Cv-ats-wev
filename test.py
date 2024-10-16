@@ -3,7 +3,13 @@ import cv2
 import numpy as np
 import mediapipe as mp
 from tensorflow.keras.models import load_model
+'''
+my abdallah
 
+img_width, img_height = 32, 32    
+model_path = 'sign_language_model.h5' 
+
+'''
 img_width, img_height = 32, 32    
 model_path = 'sign_language_model.h5'  
 
